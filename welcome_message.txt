@@ -1,0 +1,9 @@
+
+
+                              Welcome to ZOMBIE ESCAPE
+
+                A game which you will encounter zombies and collect itmes.
+                        
+                Move your character: W(Up) | S(Down) | A(Left) | D(Right) 
+
+                             Press any key to contine...
